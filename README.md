@@ -1,1 +1,1 @@
-# Human-Action-Recognition-Using-LSTM
+# Human-Pose-Estimation-Action-Recognition-Mediapipe-LSTM
